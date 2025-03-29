@@ -1,0 +1,5 @@
+﻿twelvedata==1.2.24
+pandas
+pandas_ta
+python-dotenv
+loguru
